@@ -4,8 +4,8 @@
 
 개발 업계를 씹어 먹을 미래의 백엔드 주니어 개발자 입니다 😄    
 
-➡️ PORTFOLIO : [Notion Link](https://hy-ung.notion.site/PORTFOLIO_-83bdebc017a4477f97c8840168897374?pvs=4)   
-➡️ blog : [blog Link](https://hy-ung.tistory.com/)   
+▪️ PORTFOLIO : [Notion Link](https://hy-ung.notion.site/PORTFOLIO_-83bdebc017a4477f97c8840168897374?pvs=4)   
+▪️ Blog : [blog Link](https://hy-ung.tistory.com/)   
 
 ![Hyeyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-ung97&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hysung714)](https://solved.ac/hysung714/)
