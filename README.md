@@ -8,6 +8,8 @@ IT 업계를 씹어 먹을 미래의 백엔드 주니어 개발자 입니다 �
 
 ![Hyeyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-ung97&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hysung714)](https://solved.ac/hysung714/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hysung714&layout=compact)
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
