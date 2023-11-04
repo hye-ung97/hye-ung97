@@ -1,10 +1,7 @@
 # SUNG HYE YEONG 🤓
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhye-ung97&count_bg=%23FFBEBE&title_bg=%23FF0092&icon=&icon_color=%23F0A4FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-IT 업계를 씹어 먹을 미래의 백엔드 주니어 개발자 입니다 😄    
-
-▪️ Blog : [blog Link](https://hy-ung.tistory.com/)   
+ 
 
 ![Hyeyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-ung97&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-ung97&layout=compact)
